@@ -1,13 +1,13 @@
 # FancyListIndexer
 A fantastic indexer for listview or gridview. It will bypass your finger when you touch the letters. Hope you enjoy it!
 
-##Demo
+## Example
 ![](./images/demo.gif)
 
-##Dependency
+## Dependency
 [pinyin4j](http://pinyin4j.sourceforge.net/)
 
-##Procedure
+## Procedure
 ![](http://7xnwgc.com1.z0.glb.clouddn.com/git_github_FancyListIndexer_Procedure1.png)
 
 
